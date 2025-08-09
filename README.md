@@ -53,7 +53,7 @@ voice-chatbot/
 
 ##Clone the repository:
 
-git clone https://github.com//voice-chatbot.git
+git clone [https://github.com//voice-chatbot.git](https://github.com/Starmad013/VoiceGanga_ML-Based-voice-Ai-Chatbot)
 cd voice-chatbot
 
 ##Install dependencies:
